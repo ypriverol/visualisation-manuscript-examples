@@ -1,6 +1,10 @@
 
 # Histogram Example
 
+JFreeChart is an open source library for Java to generate graphs and charts easily. JFreeChart allows the users to generate pie
+chart, bar chart, timeseries chart, Gantt chart, histogram, X-Y charts and various specific charts. In this JFreeChart tutorial,
+we will go through JFreeChart example (JFreeChart pie chart, JFreeChart bar chart and JFreeChart timeseries chart).
+
 # Scatter Matrix Example
 
 The scatterplot matrix visualizations pairwise correlations for multi-dimensional data; each cell in the matrix is a scatterplot.
@@ -15,5 +19,12 @@ A box-and-whisker plot uses simple glyphs that summarize a quantitative distribu
 value, lower quartile, median, upper quartile, and largest value. This summary approach allows the viewer to easily recognize 
 differences between distributions. Data from the Michelson–Morley experiment. Implementation contributed by Jason Davies.
 This example periodically randomizes the values to demonstrate transitions.
+
+# Bullet plot Example
+
+Designed by Stephen Few, a bullet chart “provides a rich display of data in a small space.” A variation on a bar chart, bullet
+charts compare a given quantitative measure (such as profit or revenue) against qualitative ranges (e.g., poor, satisfactory,
+good) and related markers (e.g., the same measure a year ago). The "update" button randomizes the values slightly to demonstrate
+transitions.
 
 
