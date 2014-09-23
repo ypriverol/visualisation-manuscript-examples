@@ -1,7 +1,7 @@
 [
-  {"title":"Revenue","subtitle":"US$, in thousands","ranges":[150,225,300],"measures":[220,270],"markers":[250]},
-  {"title":"Profit","subtitle":"%","ranges":[20,25,30],"measures":[21,23],"markers":[26]},
-  {"title":"Order Size","subtitle":"US$, average","ranges":[350,500,600],"measures":[100,320],"markers":[550]},
-  {"title":"New Customers","subtitle":"count","ranges":[1400,2000,2500],"measures":[1000,1650],"markers":[2100]},
-  {"title":"Satisfaction","subtitle":"out of 5","ranges":[3.5,4.25,5],"measures":[3.2,4.7],"markers":[4.4]}
+  {"title":"PeptideAtlas","subtitle":"Protein Identifications","ranges":[1000,2000, 4000],"measures":[47,317,482,2537],"markers":[47]},
+  {"title":"GPMDB","subtitle":"Protein Identifications","ranges":[1000,2000, 4000],"measures":[198,1342,3110,3037],"markers":[198]},
+  {"title":"MaxQB","subtitle":"Protein Identifications","ranges":[1000,2000, 4000],"measures":[6,21,244,1052],"markers":[6]},
+  {"title":"proteomicsDB","subtitle":"Protein Identifications","ranges":[1000,2000, 4000],"measures":[926,1670,3207,3078 ],"markers":[926]},
+  {"title":"HPM","subtitle":"Protein Identifications","ranges":[1000,2000, 4000],"measures":[64,358,2779,2822],"markers":[64]}
 ]

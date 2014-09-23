@@ -1,0 +1,98 @@
+{
+   "name": "",
+   "children": [
+    {
+     "name": "D3",
+     "children": [
+      {
+        "name": "Tree", 
+        "children": [
+          {"name": "Tree", "size": 1},
+          {"name": "Dendrogram", "size": 1}    
+        ]
+      },
+      {"name": "Pack", "size": 1},
+      {
+        "name": "Partition",  
+        "children": [
+          {"name": "Sunburst", "size": 1},
+          {"name": "Icicle", "size": 1}    
+        ]
+      },
+      {"name": "Treemap", "size": 1}
+     ]
+    },
+    {
+     "name": "Google Charts",
+     "children": [
+      {"name": "Tree", "size": 1},
+      {"name": "Treemap", "size": 1}
+     ]
+    },
+    {
+     "name": "matplotlib",
+     "children": [
+      {
+        "name": "Tree", 
+        "children": [
+          {"name": "Tree", "size": 1},
+          {"name": "Dendrogram", "size": 1}    
+        ]
+      },
+      {"name": "Treemap", "size": 1}
+     ]
+    },
+    {
+     "name": "GraphViz",
+     "children": [
+      {
+        "name": "Tree", 
+        "children": [
+          {"name": "Tree", "size": 1},
+          {"name": "Radial", "size": 1}
+        ]
+      },
+      {"name": "Pack", "size": 1},
+      {"name": "TreeMap", "size": 1}
+     ]
+    },
+    {
+     "name": "Gephi",
+     "children": [
+      {
+        "name": "Tree", 
+        "children": [
+          {"name": "Tree", "size": 1},
+          {"name": "Radial", "size": 1}
+        ]
+      }     
+     ]
+    },
+    {
+     "name": "JUNG",
+     "children": [
+      {
+        "name": "Tree", 
+        "children": [
+          {"name": "Tree", "size": 1},
+          {"name": "Radial", "size": 1},
+          {"name": "Balloon", "size": 1}   
+        ]
+      }   
+     ]
+    },
+    {
+     "name": "Cytoscape",
+     "children": [
+      {"name": "Tree", "size": 1}     
+     ]
+    },
+    {
+     "name": "mxGraph",
+     "children": [
+      {"name": "Tree", "size": 1},
+      {"name": "Partition", "size": 1}     
+     ]
+    }
+   ]
+  }

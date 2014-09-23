@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/histogram.iml" filepath="$PROJECT_DIR$/histogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../JOmics/JOmics/trunk/jfasta/jfasta.iml" filepath="$PROJECT_DIR$/../../../JOmics/JOmics/trunk/jfasta/jfasta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../utilitis-organization/pride-utilities/pride-utilities.iml" filepath="$PROJECT_DIR$/../../utilitis-organization/pride-utilities/pride-utilities.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+google.setOnLoadCallback(drawChart);
+  function drawChart() {
+    var data = google.visualization.arrayToDataTable([
+      ['3', 2.93, 3.12, 3.49, 3.68],
+      ['4', 3.57, 3.76, 4.13, 4.32],
+      ['5', 3.87, 4.44, 5.59, 6.16],
+      ['6', 4.87, 5.51, 6.79, 7.42],
+      ['7', 6.55, 6.74, 7.11, 7.30],
+      ['8', 8.07, 8.23, 8.53, 8.69],
+      ['9', 8.19, 8.56, 9.30, 9.68],
+      // Treat first row as data as well.
+    ], true);
+
+    var options = {
+      legend:'none',
+      title:'Theoretical Isoelectric point vs Experimental Isoelectric point',
+      titleTextStyle:{
+      color: '333333',
+      fontName: 'Arial',
+      fontSize: 14},
+      axisTitlesPosition:'in',
+    };
+
+    var chart = new google.visualization.CandlestickChart(document.getElementById('chart_div'));
+
+    chart.draw(data, options);
+  }
+    </script>
+  </head>
+  <body>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>

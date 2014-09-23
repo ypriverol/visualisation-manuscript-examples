@@ -1,0 +1,234 @@
+{
+ "name": "",
+   "children": [
+    {
+     "name": "D3.js",
+     "children": [
+      {
+        "name": "Bar",
+        "children": [
+        {"name": "Bar", "size": 1},
+        {"name": "Stacked", "size": 1},
+        {"name": "NegativeBar", "size": 1},
+        {"name": "Histogram", "size": 1}
+        ]
+      },
+      {"name": "Box", "size": 1},
+      {"name": "Bubble", "size": 1},
+      {"name": "Pie",
+       "children":[
+       {"name": "Pie", "size": 1},
+       {"name": "Donut", "size": 1},
+       {"name": "Semi-Donut", "size": 1}
+       ]
+      },
+      {"name": "Scatter",
+       "children":[
+       {"name": "Scatter", "size": 1},
+       {"name": "ScatterMatrix", "size": 1}
+       ]
+      },
+      {"name": "Area", "size": 1},
+      {"name": "Radar", "size":1 },
+      {"name": "PolarWind", "size": 1}
+      
+     ]
+    },
+    {
+     "name": "JFreeChart",
+     "children": [
+      {
+        "name": "Bar",
+        "children": [
+        {"name": "Bar", "size": 1},
+        {"name": "Stacked", "size": 1},
+        {"name": "Histogram", "size": 1}
+        ]
+      },
+      {"name": "Box", "size": 1},
+      {"name": "Bubble", "size": 1},
+      {"name": "Pie",
+       "children":[
+       {"name": "Pie", "size": 1},
+       {"name": "Donut", "size": 1}
+       ]
+      },
+      {"name": "Scatter", "size": 1},
+      {"name": "Area", "size": 1}
+     ]
+    },
+    {
+     "name": "matplotlib",
+     "children": [
+       {
+        "name": "Bar",
+        "children": [
+        {"name": "Bar", "size": 1},
+        {"name": "Stacked", "size": 1},
+         {"name": "NegativeBar", "size": 1},
+        {"name": "Histogram", "size": 1}
+        ]
+      },
+      {"name": "Box", "size": 1},
+      {"name": "Bubble", "size": 1},
+      {"name": "Pie",
+       "children":[
+       {"name": "Pie", "size": 1},
+       {"name": "Donut", "size": 1}
+       ]
+      },
+      {"name": "Scatter",
+       "children":[
+       {"name": "Scatter", "size": 1},
+       {"name": "ScatterMatrix", "size": 1}
+       ]
+      },
+      {"name": "Area", "size": 1},
+      {"name": "Radar", "size":1 },
+      {"name": "PolarWind", "size": 1}
+     ]
+    },
+    {
+     "name": "GRAL",
+     "children": [
+      {
+        "name": "Bar",
+        "children": [
+        {"name": "Bar", "size": 1},
+        {"name": "Histogram", "size": 1}
+        ]
+      },
+      {"name": "Box", "size": 1},
+      {"name": "Bubble", "size": 1},
+      {"name": "Pie","size": 1},
+      {"name": "Scatter","size": 1},
+      {"name": "Area", "size": 1}
+     ]
+    },
+    {
+     "name": "Jzy3d",
+     "children": [
+      {
+        "name": "Bar",
+        "children": [
+        {"name": "Bar", "size": 1},
+        {"name": "Histogram", "size": 1}
+        ]
+      },
+      {"name": "Pie","size": 1},
+      {"name": "Scatter","size": 1},
+      {"name": "Area", "size": 1}
+     ]
+    },
+    {
+     "name": "XChart",
+     "children": [
+      {
+        "name": "Bar",
+        "children": [
+        {"name": "Bar", "size": 1},
+        {"name": "Histogram", "size": 1}
+        ]
+      },
+      {"name": "Scatter", "size": 1},
+      {"name": "Area", "size": 1}
+     ]
+    },
+    {
+     "name": "Flot",
+     "children": [
+      {
+        "name": "Bar",
+        "children": [
+        {"name": "Bar", "size": 1},
+        {"name": "Stacked", "size": 1},
+        {"name": "Histogram", "size": 1}
+        ]
+      },
+      {"name": "Box", "size": 1},
+      {"name": "Pie",
+       "children":[
+       {"name": "Pie", "size": 1},
+       {"name": "Donut", "size": 1}
+       ]
+      },
+      {"name": "Scatter", "size": 1},
+      {"name": "Area", "size": 1}
+     ]
+    },
+    {
+     "name": "Bokeh",
+     "children": [
+      {
+        "name": "Bar",
+        "children": [
+        {"name": "Bar", "size": 1},
+        {"name": "Stacked", "size": 1},
+        {"name": "Histogram", "size": 1}
+        ]
+      },
+      {"name": "Box", "size": 1},
+      {"name": "Bubble", "size": 1},
+      {"name": "Pie",
+       "children":[
+       {"name": "Pie", "size": 1},
+       {"name": "Donut", "size": 1}
+       ]
+      },
+      {"name": "Scatter", "size": 1},
+      {"name": "Area", "size": 1}
+     ]
+    },
+    {
+     "name": "Highcharts",
+     "children": [
+      {
+        "name": "Bar",
+        "children": [
+        {"name": "Bar", "size": 1},
+        {"name": "Stacked", "size": 1},
+         {"name": "NegativeBar", "size": 1},
+        {"name": "Histogram", "size": 1}
+        ]
+      },
+      {"name": "Box", "size": 1},
+      {"name": "Bubble", "size": 1},
+      {"name": "Pie",
+       "children":[
+       {"name": "Pie", "size": 1},
+       {"name": "Donut", "size": 1},
+       {"name": "Semi-Donut", "size": 1}
+       ]
+      },
+      {"name": "Scatter", "size": 1},
+      {"name": "Area", "size": 1},
+      {"name": "Radar", "size":1 },
+      {"name": "PolarWind", "size": 1}
+     ]
+    },
+    {
+     "name": "Google Charts",
+     "children": [
+      {
+        "name": "Bar",
+        "children": [
+        {"name": "Bar", "size": 1},
+        {"name": "Stacked", "size": 1},
+        {"name": "Histogram", "size": 1}
+        ]
+      },
+      {"name": "Box", "size": 1},
+      {"name": "Bubble", "size": 1},
+      {"name": "Pie",
+       "children":[
+       {"name": "Pie", "size": 1},
+       {"name": "Donut", "size": 1},
+       {"name": "Semi-Donut", "size": 1}
+       ]
+      },
+      {"name": "Scatter", "size": 1},
+      {"name": "Area", "size": 1}
+     ]
+    }
+   ]
+  }

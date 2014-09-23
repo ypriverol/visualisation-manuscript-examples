@@ -1,0 +1,123 @@
+{
+   "name": "",
+   "children": [
+    {
+     "name": "Cytoscape",
+     "children": [      
+      {
+        "name": "Force Directed", 
+        "children": [
+          {"name": "Prefuse FD", "size": 1},
+          {"name": "Edge-Weighted FD", "size": 1},
+          {"name": "Spring", "size": 1}
+        ]
+      },
+      {
+        "name": "Circular", 
+        "children": [      
+          {"name": "Circular", "size": 1},
+          {"name": "Attribute Circle", "size": 1},
+          {"name": "Degree Sorted Circle", "size": 1}     
+        ]
+      },
+      {"name": "Stack", "size": 1},
+      {"name": "Grid", "size": 1},
+      {"name": "Hierachic", "size": 1},
+      {"name": "Orthogonal", "size": 1},
+      {"name": "GroupAttributes", "size": 1},
+      {"name": "SOM", "size": 1},
+      {"name": "Organic", "size": 1},
+      {"name": "Random", "size": 1}
+     ]
+    },
+    {
+     "name": "Gephi",
+     "children": [
+     {
+        "name": "Force Directed", 
+        "children": [
+          {"name": "OpenOrd", "size": 1},
+          {"name": "Fruchterman Reingold", "size": 1}
+        ]
+      }, 
+      {
+        "name": "Circular", 
+        "children": [      
+          {"name": "Circular", "size": 1},
+          {"name": "Dual Circle", "size": 1}
+        ]
+      },
+      {
+        "name": "Force Atlas", 
+        "children": [      
+          {"name": "Force Atlas", "size": 1},
+          {"name": "Force Atlas 2", "size": 1}
+        ]
+      },
+      {
+        "name": "YifanHu", 
+        "children": [      
+          {"name": "Proportional", "size": 1},
+          {"name": "Multilevel", "size": 1}
+        ]
+      }
+     ]
+    },
+    {
+     "name": "GraphViz",
+     "children": [
+     {
+        "name": "Force Directed", 
+        "children": [
+          {"name": "Spring", "size": 1}
+        ]
+      },
+      {"name": "Hierachic", "size": 1},
+      {"name": "Circular", "size": 1}
+     ]
+    },
+    {
+     "name": "Sigma",
+     "children": [
+      {"name": "Force Directed", "size": 1},
+      {"name": "Force Atlas", "size": 1}
+     ]
+    },
+    {
+     "name": "mxGraph",
+     "children": [
+      {"name": "Force Directed", "size": 1},
+      {"name": "Circular", "size": 1},
+      {"name": "Orthogonal", "size": 1},
+      {
+        "name": "Stack",
+        "children": [
+          {"name": "Stack", "size": 1},
+          {"name": "Edge Label", "size": 1},
+          {"name": "Parallel Edge", "size": 1}
+        ]
+      },
+      {"name": "Hierachic", "size": 1},
+      {"name": "Organic", "size": 1},
+      {"name": "Composite", "size": 1}
+     ]
+    },
+    {
+     "name": "JUNG",
+     "children": [
+      {
+        "name": "Force Directed", 
+        "children": [
+          {"name": "Force Directed", "size": 1},
+          {"name": "Spring", "size": 1}
+        ]
+      },
+      {"name": "Static", "size": 1},
+      {"name": "Spring", "size": 1},
+      {"name": "Circular", "size": 1},
+      {"name": "SOM", "size": 1},
+      {"name": "Composite", "size": 1}
+     ]
+    }
+   ]
+  }

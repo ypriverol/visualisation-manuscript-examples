@@ -1,0 +1,142 @@
+{
+ "name": "",
+ "children": [
+  {
+   "name": "Chart",
+   "children": [
+    {
+     "name": "cluster",
+     "children": [
+      {"name": "AgglomerativeCluster", "size": 1},
+      {"name": "CommunityStructure", "size": 1},
+      {"name": "HierarchicalCluster", "size": 1},
+      {"name": "MergeEdge", "size": 1}
+     ]
+    },
+    {
+     "name": "graph",
+     "children": [
+      {"name": "BetweennessCentrality", "size": 1},
+      {"name": "LinkDistance", "size": 1},
+      {"name": "MaxFlowMinCut", "size": 1},
+      {"name": "ShortestPaths", "size": 1},
+      {"name": "SpanningTree", "size": 1}
+     ]
+    },
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "AspectRatioBanker", "size": 1}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Network",
+   "children": [
+    {
+     "name": "Cytoscape",
+     "children": [      
+      {"name": "ForceDirected", "size": 1},
+      {"name": "Spring", "size": 1},
+      {"name": "Circular", "size": 1},
+      {"name": "Stack", "size": 1},
+      {"name": "Grid", "size": 1},
+      {"name": "yFiles", "size": 1},
+      {"name": "GroupAttributes", "size": 1},
+      {"name": "SOM", "size": 1}
+     ]
+    },
+    {
+     "name": "Gephi",
+     "children": [
+      {"name": "ForceDirected", "size":1},
+      {"name": "Circular", "size": 1},
+      {"name": "ForceAtlas", "size": 1},
+      {"name": "Radial", "size": 1},
+      {"name": "YifanHu", "size": 1}
+     ]
+    },
+    {
+     "name": "GraphViz",
+     "children": [
+      {"name": "ForceDirected", "size": 1},
+      {"name": "Spring", "size": 1},
+      {"name": "Radial", "size": 1},
+      {"name": "Circular", "size": 1}
+     ]
+    },
+    {
+     "name": "Sigma",
+     "children": [
+      {"name": "ForceDirected", "size": 1},
+      {"name": "ForceAtlas", "size": 1}
+     ]
+    },
+    {
+     "name": "mxGraph",
+     "children": [
+      {"name": "ForceDirected", "size": 1},
+      {"name": "Circular", "size": 1},
+      {"name": "Partition", "size": 1},
+      {"name": "ParallelEdge", "size": 1},
+      {"name": "EdgeLabel", "size": 1},
+      {"name": "Stack", "size": 1},
+      {"name": "Composite", "size": 1}
+     ]
+    },
+    {
+     "name": "JUNG",
+     "children": [
+      {"name": "Static", "size": 1},
+      {"name": "ForceDirected", "size": 1},
+      {"name": "Spring", "size": 1},
+      {"name": "Radial", "size": 1},
+      {"name": "Circular", "size": 1},
+      {"name": "Balloon", "size": 1},
+      {"name": "SOM", "size": 1},
+      {"name": "Composite", "size": 1}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Hierarchy",
+   "children": [
+    {
+     "name": "D3",
+     "children": [
+      {"name": "Tree", "size": 1},
+      {"name": "Dendrogram", "size": 1},
+      {"name": "Pack", "size": 1},
+      {"name": "Partition", "size": 1},
+      {"name": "Treemap", "size": 1}
+     ]
+    },
+    {
+     "name": "Google Charts",
+     "children": [
+      {"name": "Tree", "size": 1},
+      {"name": "Treemap", "size": 1}
+     ]
+    },
+    {
+     "name": "matplotlib",
+     "children": [
+      {"name": "Tree", "size": 1},
+      {"name": "Dendrogram", "size": 1},
+      {"name": "Treemap", "size": 1}
+     ]
+    },
+    {
+     "name": "GraphViz",
+     "children": [
+      {"name": "Tree", "size": 1},
+      {"name": "Pack", "size": 1},
+      {"name": "TreeMap", "size": 1}
+     ]
+    }
+   ]
+  }
+  ]
+}
